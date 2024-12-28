@@ -1,6 +1,6 @@
-import 'package:forumhu8/domain/models/comment/comment.dart';
-import 'package:forumhu8/domain/models/forum/forum.dart';
-import 'package:forumhu8/domain/models/topic/topic.dart';
+import '../comment/comment.dart';
+import '../forum/forum.dart';
+import '../topic/topic.dart';
 
 class User {
   final String id;

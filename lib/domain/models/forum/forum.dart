@@ -1,5 +1,5 @@
-import 'package:forumhu8/domain/models/topic/topic.dart';
-import 'package:forumhu8/domain/models/user/user.dart';
+import '../topic/topic.dart';
+import '../user/user.dart';
 
 class Forum {
   final String id;
